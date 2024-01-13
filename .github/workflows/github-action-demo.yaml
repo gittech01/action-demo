@@ -1,6 +1,6 @@
 
 # nome do WorkFlow
-name: GitHub Demo
+name: GitHub Demo 2
 run-name: ${{ github.actor }} is learning GitHub Actions
 
 # disparador ou trigger
