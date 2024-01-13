@@ -4,7 +4,9 @@ name: GitHub Demo
 run-name: ${{ github.actor }} is learning GitHub Actions
 
 # disparador ou trigger
-on: [push]
+on:
+  workflow_dispatch:
+    
 
 
 jobs:
